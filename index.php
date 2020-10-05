@@ -8,5 +8,9 @@
 <body>
     <h1> Hello world </h1>
     <p> Lorem ipsum dolor sit amep consectetur adipisicing elit.</p>
+    <ol>
+        <li>list 1</li>
+        <li>list 2</li>
+    </ol>
 </body>
 </html>
